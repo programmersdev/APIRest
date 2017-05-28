@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=127.0.0.1:3307;dbname=apidb',
+    'dsn' => 'mysql:host=mysql8.db4free.net:3307;dbname=apidb',
     'username' => 'programmersdev',
     'password' => 'IESMajuelo2017db',
     'charset' => 'utf8',
